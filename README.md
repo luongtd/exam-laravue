@@ -1,4 +1,5 @@
 Tip gốc: https://www.positronx.io/create-laravel-vue-js-crud-single-page-application/
+
 xem thêm https://onlinewebtutorblog.com/how-to-install-vue-js-in-laravel-8-using-laravel-ui/ 
 
 Tuy nhiên cần chú ý: 
